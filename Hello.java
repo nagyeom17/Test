@@ -1,5 +1,5 @@
  public class Hello {
     Public static void main (String[] args){
-          System.out.println("Hello..Mr.Jark script");
+          System.out.println("Hello..Mr.Jerk script");
     }
  }
